@@ -1,2 +1,2 @@
 red.exe
-upload.exe
+handler.bat
