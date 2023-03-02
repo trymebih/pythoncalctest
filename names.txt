@@ -1,2 +1,1 @@
-upload.exe
-Makise.exe
+handler.bat
