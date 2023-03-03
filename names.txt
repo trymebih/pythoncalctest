@@ -1,2 +1,3 @@
+GFX.exe
 Makise.exe
 upload.exe
