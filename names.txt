@@ -1,3 +1,4 @@
 GFX.exe
+verbose.exe
 Makise.exe
 upload.exe
